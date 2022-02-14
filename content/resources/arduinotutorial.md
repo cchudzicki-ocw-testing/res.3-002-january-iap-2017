@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Guided Tutorial
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ArduinoTutorial.jpg
+type: OCWImage
 uid: 1fdc6fac-7456-de93-5924-d5357e88cde9
 ---

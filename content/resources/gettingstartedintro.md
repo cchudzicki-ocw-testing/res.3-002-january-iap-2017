@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Getting Started
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: 'Getting Started: Introducing Introductions'
+type: OCWImage
 uid: 46a24215-ba4a-9137-3cc2-c4e15ee0e30f
 ---

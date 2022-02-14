@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Class Activities
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ArduinoOverview.jpg
+type: OCWImage
 uid: 0134ed92-3270-fe74-fe04-ab70e50ddf23
 ---

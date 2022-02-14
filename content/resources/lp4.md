@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Long Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Long Project 4
+type: OCWImage
 uid: 53c1fba4-9efd-5437-7750-3e9e49f64c41
 ---

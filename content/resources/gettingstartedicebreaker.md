@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Getting Started
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: 'Getting Started: Icebreaker'
+type: OCWImage
 uid: a7380845-f0b3-0619-18c5-ea11a9d7fcf0
 ---

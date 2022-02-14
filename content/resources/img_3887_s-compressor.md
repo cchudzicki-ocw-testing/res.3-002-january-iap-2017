@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Practical Tips for Facilitating Hands-On Learning
+parent_type: CourseSection
 resourcetype: Image
 title: IMG_3887_s-compressor.jpg
+type: OCWImage
 uid: ad23f461-bb9b-3e30-c298-a919e60b8c5a
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Collaboration
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: 'Collaboration: Intro to Git/Github'
+type: OCWImage
 uid: b3f6fb71-2d7b-c320-55be-271bd2ea747a
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Short Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: SP6.jpg
+type: OCWImage
 uid: d3840da6-9838-4505-97af-19976e110eac
 ---

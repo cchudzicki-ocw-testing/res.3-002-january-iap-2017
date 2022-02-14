@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Getting Started
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ArduinoIntro.jpg
+type: OCWImage
 uid: 4f0ed47c-34b5-9f1f-769c-e90ddfe76162
 ---

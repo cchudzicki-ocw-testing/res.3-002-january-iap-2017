@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Collaboration
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ArduinoCollaboration.jpg
+type: OCWImage
 uid: 8b123e12-8d8e-17ee-bb37-fe51a56ac1dd
 ---

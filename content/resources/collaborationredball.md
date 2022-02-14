@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Collaboration
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: 'Collaboration: Red Ball During Class'
+type: OCWImage
 uid: a9c3fa7d-8c3a-8b5a-8788-ebe0e1072b2a
 ---

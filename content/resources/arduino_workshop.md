@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Arduino_workshop.jpg
+type: OCWImage
 uid: e139d43c-ba1b-7b49-452a-d0704ba7fb20
 ---
