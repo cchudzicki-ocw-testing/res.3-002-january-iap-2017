@@ -12,6 +12,5 @@ parent_title: Short Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: SP3.jpg
-type: OCWImage
 uid: fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a
 ---

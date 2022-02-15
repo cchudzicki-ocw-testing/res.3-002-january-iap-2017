@@ -5,7 +5,6 @@ parent_title: Class Activities
 parent_type: SupplementalResourceSection
 parent_uid: b6e4204b-938c-bbc2-5b6a-925b625b04bf
 title: Collaboration
-type: SupplementalResourceSection
 uid: 9124cfc0-9ac5-8d6a-28b7-dc1f57821864
 ---
 

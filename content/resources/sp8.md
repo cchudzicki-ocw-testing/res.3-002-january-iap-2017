@@ -12,6 +12,5 @@ parent_title: Short Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: SP8.jpg
-type: OCWImage
 uid: fddba617-ac9f-bf60-728e-736b95525f6e
 ---

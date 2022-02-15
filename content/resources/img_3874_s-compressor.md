@@ -12,6 +12,5 @@ parent_title: Impressions and Advice
 parent_type: CourseSection
 resourcetype: Image
 title: IMG_3874_s-compressor.jpg
-type: OCWImage
 uid: 6969f234-541b-fa78-21ba-3883e810d0c5
 ---

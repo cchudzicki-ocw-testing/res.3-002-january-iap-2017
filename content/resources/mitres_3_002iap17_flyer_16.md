@@ -8,6 +8,5 @@ parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Collaborative Design with Arduino 2016 Workshop Flyer
-type: OCWFile
 uid: f067b2c5-0f3e-68d1-1a5b-437d0f786f55
 ---

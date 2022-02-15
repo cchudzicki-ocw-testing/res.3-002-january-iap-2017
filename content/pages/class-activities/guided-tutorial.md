@@ -5,7 +5,6 @@ parent_title: Class Activities
 parent_type: SupplementalResourceSection
 parent_uid: b6e4204b-938c-bbc2-5b6a-925b625b04bf
 title: Guided Tutorial
-type: SupplementalResourceSection
 uid: 8b218923-d686-59f1-9eae-5de886d56839
 ---
 

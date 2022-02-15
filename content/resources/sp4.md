@@ -12,6 +12,5 @@ parent_title: Short Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: SP4
-type: OCWImage
 uid: 8834ec63-9502-6a27-cf6c-4bc425c51e18
 ---

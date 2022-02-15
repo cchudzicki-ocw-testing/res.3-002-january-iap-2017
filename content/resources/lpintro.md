@@ -13,6 +13,5 @@ parent_title: Long Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Long Project Intro
-type: OCWImage
 uid: 73bbbfde-f637-a173-39aa-80e5f095d43d
 ---

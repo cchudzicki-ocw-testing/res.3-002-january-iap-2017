@@ -12,6 +12,5 @@ parent_title: Short Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ArduinoShortProject.jpg
-type: OCWImage
 uid: 77f9f010-5243-c1a9-0309-c9151b6403c6
 ---

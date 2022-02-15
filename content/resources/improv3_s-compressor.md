@@ -12,6 +12,5 @@ parent_title: Cultivating a Culture of Collaboration
 parent_type: CourseSection
 resourcetype: Image
 title: Improv3_s-compressor.jpg
-type: OCWImage
 uid: 1aaf9a19-abba-6b46-7977-3f082d007099
 ---
