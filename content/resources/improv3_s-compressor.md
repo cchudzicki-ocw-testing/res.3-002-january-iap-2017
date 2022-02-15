@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Cultivating a Culture of Collaboration
 parent_type: CourseSection
 resourcetype: Image

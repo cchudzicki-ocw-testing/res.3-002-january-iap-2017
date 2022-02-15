@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection
 resourcetype: Image
