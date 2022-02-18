@@ -9,7 +9,7 @@ title: Short Project
 uid: 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c
 ---
 
-![Students gathered in a group in a classroom watching a student project demo.]({{< resource_file 77f9f010-5243-c1a9-0309-c9151b6403c6 >}})  
+{{< resource 77f9f010-5243-c1a9-0309-c9151b6403c6 >}}  
 
 Students watch in class demo of their Arduino projects. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 
@@ -27,12 +27,12 @@ The following project demonstrations are courtesy of the participants, including
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![SP1.jpg]({{< resource_file 65da1e0f-4600-f611-fa0e-8f74c21291b3 >}})
+{{< resource 65da1e0f-4600-f611-fa0e-8f74c21291b3 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Short Project 1: Arduino Pinball]({{< baseurl >}}/resources/short-project-1-arduino-pinball)**
+﻿**{{< resource_link 63115462-c41f-1525-ae40-dc74ffb3322d "Short Project 1: Arduino Pinball" >}}**
 
 In this video, one of the student teams demonstrates their project, an Arduino Baseball game.  
 
@@ -42,12 +42,12 @@ In this video, one of the student teams demonstrates their project, an Arduino B
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![SP2.jpg]({{< resource_file d0b8e855-e4e3-0e53-ac86-d76b5edca16d >}})
+﻿{{< resource d0b8e855-e4e3-0e53-ac86-d76b5edca16d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Short Project 2: Back in Black Light Show]({{< baseurl >}}/resources/short-project-2-back-in-black-light-show)**
+﻿**{{< resource_link ec3975c4-049e-608c-b21f-8d5d38a035da "Short Project 2: Back in Black Light Show" >}}**
 
 One of the student teams presents their project, an Arduino based light and sound show, which is programmed using the Processing IDE. They use the sound library to sync the lights with music.  
 
@@ -57,12 +57,12 @@ One of the student teams presents their project, an Arduino based light and soun
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![SP3.jpg]({{< resource_file fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a >}})
+﻿{{< resource fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- **[Short Project 3: Calculator]({{< baseurl >}}/resources/short-project-3-calculator)**
+ **{{< resource_link 5c2b82e4-0a2b-a234-f87e-f22eb623a9b0 "Short Project 3: Calculator" >}}**
 
 Students demonstrate their project, an Arduino based calculator that can do simple additions and displays the sum on a dial.  
 
@@ -72,12 +72,12 @@ Students demonstrate their project, an Arduino based calculator that can do simp
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![SP4.jpg]({{< resource_file 8834ec63-9502-6a27-cf6c-4bc425c51e18 >}})
+﻿{{< resource 8834ec63-9502-6a27-cf6c-4bc425c51e18 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Short Project 4: Chance Game]({{< baseurl >}}/resources/short-project-4-chance-game)**
+﻿**{{< resource_link 02445fde-6cc9-83d2-7023-dd73754e2f48 "Short Project 4: Chance Game" >}}**
 
 In this video, one of the student teams demonstrates their projects, an Arduino based virtual ruler and a lottery game.  
 
@@ -87,12 +87,12 @@ In this video, one of the student teams demonstrates their projects, an Arduino 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![SP5.jpg]({{< resource_file 1f4c9ba2-4d7e-4a25-88aa-9ec8769ba7e9 >}})
+﻿{{< resource 1f4c9ba2-4d7e-4a25-88aa-9ec8769ba7e9 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Short Project 5: Infrared Lock]({{< baseurl >}}/resources/short-project-5-infrared-lock)**
+﻿**{{< resource_link b440ff75-d4e0-75a8-1650-d9ed11afbe08 "Short Project 5: Infrared Lock" >}}**
 
 In this video, one of the student teams demonstrates their project, an IR bike lock. The bike lock can be triggered using an infrared remote control.  
 
@@ -102,12 +102,12 @@ In this video, one of the student teams demonstrates their project, an IR bike l
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![SP6.jpg]({{< resource_file d3840da6-9838-4505-97af-19976e110eac >}})
+﻿{{< resource d3840da6-9838-4505-97af-19976e110eac >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿[**S****hort Project 6: Knock Knock Lock**]({{< baseurl >}}/resources/short-project-6-knock-knock-lock)
+﻿{{< resource_link 7714ebfd-3200-da3a-9e9f-471c6b421215 "**S****hort Project 6: Knock Knock Lock**" >}}
 
 One of the student team presents their project, a sound activated safe lock.  
 
@@ -117,7 +117,7 @@ One of the student team presents their project, a sound activated safe lock.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}})
+{{< resource fddba617-ac9f-bf60-728e-736b95525f6e >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -132,12 +132,12 @@ The LED array is pre-programmed to sync with music from the popular video game, 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}})
+{{< resource fddba617-ac9f-bf60-728e-736b95525f6e >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Short Project 8: Plant People]({{< baseurl >}}/resources/short-project-8-plant-people)**
+﻿**{{< resource_link 466e84ea-eb64-1253-b3ee-8deb6f628954 "Short Project 8: Plant People" >}}**
 
 Students present on their project, Plant People.  
 

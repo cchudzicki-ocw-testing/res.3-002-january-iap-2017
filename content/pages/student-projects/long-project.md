@@ -19,12 +19,12 @@ The following project demonstrations are courtesy of the participants, including
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![LPIntro.jpg]({{< resource_file 73bbbfde-f637-a173-39aa-80e5f095d43d >}})
+﻿{{< resource 73bbbfde-f637-a173-39aa-80e5f095d43d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- **[Long Project: Introduction]({{< baseurl >}}/resources/long-project-introduction)**
+ **{{< resource_link 6ca05273-a143-ac83-eb85-bcb806e3aa65 "Long Project: Introduction" >}}**
 
 In this video, instructors provide some context about the student projects and presentations, including what information they should cover in the presentations.  
 
@@ -34,12 +34,12 @@ In this video, instructors provide some context about the student projects and p
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![LP1.jpg]({{< resource_file 6a1ac09e-e79a-3b88-be45-a782edcc1f92 >}})
+{{< resource 6a1ac09e-e79a-3b88-be45-a782edcc1f92 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Long Project 1: Awesome Light Show Touch Game]({{< baseurl >}}/resources/long-project-1-awesome-light-show-touch-game)**
+﻿**{{< resource_link 496865f0-82ee-43c2-e2aa-a815c43d550b "Long Project 1: Awesome Light Show Touch Game" >}}**
 
 In this video, one of the student teams demonstrates their project, a light show touch game which is synced to a counter that keeps score, every time you touch the red box (which randomly changes position).  
 
@@ -49,12 +49,12 @@ In this video, one of the student teams demonstrates their project, a light show
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![LP2.jpg]({{< resource_file 255d9455-f2cc-2a98-023e-587bb3828f75 >}})
+﻿{{< resource 255d9455-f2cc-2a98-023e-587bb3828f75 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Long Project 2: Hand Motion Controlled Car]({{< baseurl >}}/resources/long-project-2-hand-motion-controlled-car)**
+﻿**{{< resource_link 43bce616-5b42-46eb-9ee6-3bd6bd2cf45e "Long Project 2: Hand Motion Controlled Car" >}}**
 
 In this video, one of the student teams demonstrates their project, a gesture controlled car.  
 
@@ -64,12 +64,12 @@ In this video, one of the student teams demonstrates their project, a gesture co
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![LP3-1.jpg]({{< resource_file 64ebff04-2c88-3592-c6bb-216668ee3021 >}})
+﻿{{< resource 64ebff04-2c88-3592-c6bb-216668ee3021 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- **[Long Project 3: LED Framed Light Display Part 1]({{< baseurl >}}/resources/long-project-3-led-framed-light-display-part-1)**
+ **{{< resource_link 5914f5c0-38a9-ffa8-0df1-232cd536a9c9 "Long Project 3: LED Framed Light Display Part 1" >}}**
 
 In this video, one of the student teams demonstrates their project, a framed LED display. This is the first part of the presentation.  
 
@@ -79,12 +79,12 @@ In this video, one of the student teams demonstrates their project, a framed LED
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![LP3-2.jpg]({{< resource_file de082736-ce24-0a82-7a7f-4d30d01f360b >}})
+﻿{{< resource de082736-ce24-0a82-7a7f-4d30d01f360b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- **[Long Project 3: LED Framed Light Display Part 2]({{< baseurl >}}/resources/long-project-3-led-framed-light-display-part-2)**
+ **{{< resource_link 0d7875c6-371b-355e-bcda-fbf2be0ad6d6 "Long Project 3: LED Framed Light Display Part 2" >}}**
 
 In this video, one of the student teams demonstrates their project, a framed LED display. This is the second part of the presentation.  
 
@@ -94,12 +94,12 @@ In this video, one of the student teams demonstrates their project, a framed LED
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![LP4.jpg]({{< resource_file 53c1fba4-9efd-5437-7750-3e9e49f64c41 >}})
+﻿{{< resource 53c1fba4-9efd-5437-7750-3e9e49f64c41 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Long Project 4: Punching Glove]({{< baseurl >}}/resources/long-project-4-punching-glove)**
+﻿**{{< resource_link 50020546-bb37-7825-10a4-8e54bba44d44 "Long Project 4: Punching Glove" >}}**
 
 In this video, one of student team demonstrates their project, a punching glove which measures various metrics such as the intensity of your punches and the speed and number of punches and so on.  
 
@@ -109,12 +109,12 @@ In this video, one of student team demonstrates their project, a punching glove 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![LP5.jpg]({{< resource_file 55b86be3-a920-c227-a424-a7c52b03d6c5 >}})﻿
+{{< resource 55b86be3-a920-c227-a424-a7c52b03d6c5 >}}﻿
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Long Project 5: Quadcopter]({{< baseurl >}}/resources/long-project-5-quadcopter)**
+﻿**{{< resource_link 1d3b537f-3a87-cce7-d377-efbe022a7de9 "Long Project 5: Quadcopter" >}}**
 
 In this video, one of the student team talks about how quadcopters can be useful in daily lives.  
 

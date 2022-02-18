@@ -15,7 +15,7 @@ _In this section, Andrew Ringler shares practical tips for facilitating hands-on
 Think Strategically about Supplies
 ----------------------------------
 
-![Close up image of Arduino microcontroller electronic prototypes.]({{< resource_file ad23f461-bb9b-3e30-c298-a919e60b8c5a >}})
+{{< resource ad23f461-bb9b-3e30-c298-a919e60b8c5a >}}
 
 Participants programmed Arduinos to make LEDs blink. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

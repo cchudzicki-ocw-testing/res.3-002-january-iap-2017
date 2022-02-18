@@ -14,7 +14,7 @@ Summary
 
 Students form groups of 2–4 and begin by learning what a microcontroller is and understanding basics behind the Arduino board. They learn to interface it with their laptops and begin by uploading some of the example codes such as 'blink'. In addition, they try to build basic circuits with LEDs and resistors on solderless breadboards and interface buttons with Arduino and the circuits they've built. On this page, we describe the purpose and logistics of running this activity.
 
-![Students sitting in groups watch tutorials with their laptops]({{< resource_file 1fdc6fac-7456-de93-5924-d5357e88cde9 >}})  
+{{< resource 1fdc6fac-7456-de93-5924-d5357e88cde9 >}}  
 
 The groups watch Arduino tutorials for their projects. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

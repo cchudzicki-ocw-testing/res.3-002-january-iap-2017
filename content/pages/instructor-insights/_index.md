@@ -34,8 +34,8 @@ Instructor Insights
 
 _Below, Kyle Keane and Andrew Ringler describe various aspects of how they teach_ RES.3-002 Collaborative Design and Creative Expression with Arduino Microcontrollers.
 
-*   [Cultivating a Culture of Collaboration]({{< baseurl >}}/pages/instructor-insights/cultivating-a-culture-of-collaboration)
-*   [Practical Tips for Facilitating Hands-On Learning]({{< baseurl >}}/pages/instructor-insights/practical-tips-for-facilitating-hands-on-learning)
+*   {{< resource_link ba03281e-1589-9ed0-e5df-3d7d87889977 "Cultivating a Culture of Collaboration" >}}
+*   {{< resource_link 7144c264-a36c-b324-2bcf-c7c0a6f01451 "Practical Tips for Facilitating Hands-On Learning" >}}
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -46,7 +46,7 @@ Participant Insights
 
 _Below, two participants in_ RES.3-002 Collaborative Design and Creative Expression with Arduino Microcontrollers _share their impressions of the workshop and offer advice to future participants._
 
-*   [Impressions and Advice]({{< baseurl >}}/pages/instructor-insights/impressions-and-advice)
+*   {{< resource_link c299c14e-3cbc-0962-875c-e14575422e09 "Impressions and Advice" >}}
 
 Assessment
 ----------
@@ -73,7 +73,7 @@ Offered periodically
 Student Information
 -------------------
 
-![30 students took this course when it was offered in IAP 2017.]({{< resource_file 95ee9b74-b1f0-de02-9ee3-cd7c68622de4 >}})
+{{< resource 95ee9b74-b1f0-de02-9ee3-cd7c68622de4 >}}
 
 ### Breakdown by Year
 

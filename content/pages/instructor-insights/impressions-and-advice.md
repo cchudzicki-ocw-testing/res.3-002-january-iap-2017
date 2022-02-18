@@ -12,7 +12,7 @@ uid: c299c14e-3cbc-0962-875c-e14575422e09
 
 _Below, two participants_ _share their impressions of the workshop and offer advice for future participants_.
 
-![Several students sitting around a rectangular table. They’re manipulating electronics.]({{< resource_file 6969f234-541b-fa78-21ba-3883e810d0c5 >}})
+{{< resource 6969f234-541b-fa78-21ba-3883e810d0c5 >}}
 
 Workshop participants hard at work on their collaborative designs. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

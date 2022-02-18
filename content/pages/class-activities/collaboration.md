@@ -14,7 +14,7 @@ Summary
 
 It is crucial for students to understand the importance of collaborating in groups and discussing ideas openly with their peers. One of the key features of our pedagogy is the belief that collaboration and social support bolster learning and need to be explicitly modeled. We facilitate the development of interpersonal skills at many levels through designed activities; this helps students effectively communicate their ideas in a clear and professional way as well as help students learn to respectfully engage in hearing the ideas of others.
 
-![Students with their laptops sitting in a classroom discussing Arduino project ideas.]({{< resource_file 8b123e12-8d8e-17ee-bb37-fe51a56ac1dd >}})  
+{{< resource 8b123e12-8d8e-17ee-bb37-fe51a56ac1dd >}}  
 
 Students brainstorm ideas for their Arduino projects. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 
@@ -26,12 +26,12 @@ For the modern technique of collaborating on software projects, we have included
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![CollaborationIntroToGit.jpg]({{< resource_file b3f6fb71-2d7b-c320-55be-271bd2ea747a >}})
+{{< resource b3f6fb71-2d7b-c320-55be-271bd2ea747a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Collaboration: Introduction to Git/GitHub]({{< baseurl >}}/resources/introduction-to-git-github)**
+﻿**{{< resource_link a0df9910-7619-78e2-ddd6-0f612e0fee4b "Collaboration: Introduction to Git/GitHub" >}}**
 
 Andrew Ringler provides an overview of the GitHub software collaboration toolset. We use Git and specifically Github to facilitate collaboration and documentation within and between groups. This video introduces students to concepts of collaboration with Git.  
 
@@ -41,12 +41,12 @@ Andrew Ringler provides an overview of the GitHub software collaboration toolset
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-﻿![CollaborationRedBall.jpg]({{< resource_file a9c3fa7d-8c3a-8b5a-8788-ebe0e1072b2a >}})
+﻿{{< resource a9c3fa7d-8c3a-8b5a-8788-ebe0e1072b2a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿**[Collaboration: Red Ball During Class]({{< baseurl >}}/resources/red-ball-during-class)**
+﻿**{{< resource_link 667b602a-6cd2-89fc-9dcf-514809125ec4 "Collaboration: Red Ball During Class" >}}**
 
 Kyle Keane leads the class in an improv comedy activity called “red ball” in order to help students become more comfortable with each other and get to express themselves a bit non-verbally.  
 
