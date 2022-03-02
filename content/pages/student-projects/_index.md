@@ -12,10 +12,10 @@ Arduino Instructor, Andrew Ringler, provided instructions about the student proj
 
 In this workshop, students deliver two design projects with Arduino.
 
-{{< resource_link 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c "Short Project" >}}
+{{% resource_link 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c "Short Project" %}}
 
 Students spend six hours of the project time and collaborate to design their first interactive project with Aruidno in groups of two to four.
 
-{{< resource_link 1c2103b6-50f0-c9ce-847b-c90df277563d "Long Project" >}}
+{{% resource_link 1c2103b6-50f0-c9ce-847b-c90df277563d "Long Project" %}}
 
 Students spend twenty hours of the project time and develop their second Arduino project in groups of four to six.
