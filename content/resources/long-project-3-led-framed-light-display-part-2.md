@@ -13,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 3: LED Framed Light Display Part 2'
 uid: 0d7875c6-371b-355e-bcda-fbf2be0ad6d6
 video_files:

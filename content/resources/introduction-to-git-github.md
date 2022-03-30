@@ -12,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Introduction to Git/GitHub
 uid: a0df9910-7619-78e2-ddd6-0f612e0fee4b
 video_files:
