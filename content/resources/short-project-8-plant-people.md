@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates theidr project, Plant People. A moisture sensor is used to with a potted plant, to sense the moisture level in the soil. Depending upon the amount of moisture content in the soil, the Arduino alerts the user to water the plant. Components: Arduino, RGB LED, Soil Moisture level sensor.
+

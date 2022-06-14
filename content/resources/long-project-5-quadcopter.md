@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 In this video, one of the student team talks about how quadcopters can be useful in daily lives. They try to build a quadcopter from scratch which was not possible with the limited time and budget. However they were able to borrow some parts from friends at MITERS and put together a quadcopter that they demonstrated.
+

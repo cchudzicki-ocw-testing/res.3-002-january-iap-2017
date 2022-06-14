@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino Baseball game. Components used - Arduino UNO, Potentiometer, Jumpers, Breadboard and Cardboard.
+

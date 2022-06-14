@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino based light and sound show, which is programmed using the Processing IDE. They use the sound library to sync the lights with music. Components used - Arduino Mega, Jumpers, Breadboard, LEDs.
+

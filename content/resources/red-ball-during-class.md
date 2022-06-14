@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 Kyle Keane leads the class in an improv comedy activity called “red ball” in order to help students become more comfortable with each other and get to express themselves a bit non-verbally.
+

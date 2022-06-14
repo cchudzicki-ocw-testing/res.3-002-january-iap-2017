@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 In this video, one of student team demonstrates their project, a punching glove which measures various metrics such as the intensity of your punches and the speed and number of punches and so on. The students discuss a host of possible applications and features that they can add to the glove, given more time.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6cfa3a292941fdd546f6c2e8c546f3fc_uPoKChMBeQY.pdf
+file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6cfa3a292941fdd546f6c2e8c546f3fc_uPoKChMBeQY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

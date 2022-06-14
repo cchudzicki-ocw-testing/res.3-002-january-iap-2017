@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 Andrew Ringler provides an overview of the GitHub software collaboration toolset. We use Git and specifically GitHub to facilitate collaboration and documentation within and between groups. This video introduces students to concepts of collaboration with Git.
+

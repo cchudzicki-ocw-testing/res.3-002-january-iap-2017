@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a light show touch game which is synced to a counter that keeps score, everytime you touch the red box (which randomly changes position). They talk about the different things they learnt over the course of the project.
+

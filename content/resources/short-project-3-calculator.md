@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino based calculator that can do simple additions and displays the sum on a dial. Components used: Arduino Mega, LEDs, Breadboard, Jumpers, Servo.
+

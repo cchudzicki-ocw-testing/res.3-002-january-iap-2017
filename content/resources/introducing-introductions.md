@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.
+

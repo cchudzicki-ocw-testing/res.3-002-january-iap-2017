@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.
+

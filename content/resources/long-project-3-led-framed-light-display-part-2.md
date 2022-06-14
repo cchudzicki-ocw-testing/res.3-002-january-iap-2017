@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a framed LED display. This is a good example of pre-planning, as the team made sure to order enough components to be able to make one of the frames for each of the students in the team. This is the second part of the project demonstration.
+
