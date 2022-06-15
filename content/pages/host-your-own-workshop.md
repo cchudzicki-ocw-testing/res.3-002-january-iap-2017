@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides information on how to host a similar workshop as the
+  MIT 2017 IAP course Collaborative Design and Creative Expression with Arduino Microcontroller,
+  taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop

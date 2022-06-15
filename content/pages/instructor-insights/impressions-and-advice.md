@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section two participants in RES.3-002 Collaborative Design and
+  Creative Expression with Arduino Microcontrollers share their impressions of the
+  workshop and offer advice to future participants.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

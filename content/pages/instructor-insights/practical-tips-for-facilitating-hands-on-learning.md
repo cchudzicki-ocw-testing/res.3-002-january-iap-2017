@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Andrew Ringler shares practical tips for facilitating
+  hands-on learning experiences in the Arduino workshop.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
